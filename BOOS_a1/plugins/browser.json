@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "uzh.ch.uboos"
+        }
+    }
+}
